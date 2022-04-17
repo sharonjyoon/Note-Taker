@@ -7,6 +7,10 @@ The changes will also be reflected on the database as well.
 
 This application has been deployed on Github as well as Heroku. 
 
+https://github.com/sharonjyoon/Note-Taker.git
+
+https://git.heroku.com/notetakershizuka-app.git
+
 Installation:
 npm i
 npm i express
